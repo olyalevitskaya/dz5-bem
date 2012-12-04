@@ -1,0 +1,9 @@
+
+.block_everything_on_page{
+	
+	position: static;  
+	text-align: left;
+	padding-left: 15%;
+	width: 70%;
+}
+

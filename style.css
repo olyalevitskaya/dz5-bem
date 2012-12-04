@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+@import url(blocks/block_the_page.css);
+@import url(blocks/block_preheader.css);
+@import url(blocks/block_header.css);
+@import url(blocks/block_text.css);
+@import url(blocks/block_question.css);
+@import url(blocks/block_answer.css);
+
+
+body {
+	margin:0px; 
+	padding:0px;
+	background-image:url(wallpaper_1024x768_1221.png); 								
+	background-repeat: repeat
+}
+
+#area{
+	opacity: 0.6;
+	margin-left: 10%; 
+	padding: 20px;
+	background-image: url(text_bg2.jpg);
+	width: 80%;	
+ 	border-radius: 40px;
+}
+
+
